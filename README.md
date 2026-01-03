@@ -61,13 +61,13 @@ type 'a mset = 'a melt list
 type combinaison = 
   | Suite of tuile list 
   | Groupe of tuile list
+---
 
 
 ## 👤 Auteur
 
 **Votre Nom**
-* GitHub : [@votre-pseudo](https://github.com/Logibuilder)
-* Portfolio : [https://logibuilder.github.io/assane.kane/]
+* GitHub : [@Logibuilder](https://github.com/Logibuilder)
+* Portfolio : [https://logibuilder.github.io/assane.kane/](https://logibuilder.github.io/assane.kane/)
 
----
 *Projet réalisé dans un but éducatif pour démontrer la maîtrise d'OCaml et de la programmation fonctionnelle.*
