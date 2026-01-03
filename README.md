@@ -67,6 +67,6 @@ type combinaison =
 
 **Votre Nom**
 * GitHub : ![@Logibuilder](https://github.com/Logibuilder)
-* Portfolio : ![https://logibuilder.github.io/assane.kane/](https://logibuilder.github.io/assane.kane/)
+* Portfolio : [https://logibuilder.github.io/assane.kane/](https://logibuilder.github.io/assane.kane/)
 
 *Projet réalisé dans un but éducatif pour démontrer la maîtrise d'OCaml et de la programmation fonctionnelle.*
