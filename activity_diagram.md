@@ -1,5 +1,5 @@
 ```mermaid
-    graph TD
+graph TD
     A[Début] --> B[Initialiser partie]
     B --> C{Mettre 30+ points?}
     C -->|Non| D[Piocher]
